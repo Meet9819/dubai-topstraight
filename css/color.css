@@ -1,0 +1,18 @@
+/* ThemeColor */
+.thcolor,.thcolorhover:hover,.footer-nav ul li a:hover,
+.top-nav ul li a:hover,.services-view-two ul li:hover h2,.jb-content .widget-recentpost ul li:hover h6 a,#jbrespond .comments-form p i {
+    color: #ed1b24;
+}
+
+.navbar-nav .children > li:hover > a,.thbg-color,.thbg-colorhover:hover,.jb-topbar:before,
+.gallery-link a:hover,#footer-widget .widget-text:before,.main-navbaar .navbar-nav > li:before,
+.pagination a:hover,.pagination span,.widget_archive ul li:hover,.jb-content .widget-recentpost ul li:hover time,
+#jbrespond .comments-form p input[type="submit"]:hover,.jb-postsection a:hover,.player-nav li.active a,
+.jb-services.services-three ul li i,.widget_categories ul li:hover,.widget-recentpost ul li:hover time,.widget-text ul li:hover i,
+.with-circle ul li i,.jb-causes-list .jb-main-action a,.jb-subheader {
+    background-color: #ed1b24;
+}
+
+.th-bordercolor,.th-bordercolorhover:hover,.detail-thumb,.jb-couses-numbers ul li span{
+    border-color: #ed1b24;
+}

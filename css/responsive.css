@@ -1,0 +1,111 @@
+/*============	Media 768Px Start ============ */ 
+@media (min-width: 768px) and (max-width: 990px) {
+	/* Header */
+	.jb-headbar .col-md-3 { width: 20%; float: left; }
+	.jb-headbar .col-md-9 { width: 80%; float: left; }
+	.logo,.logo img { width: 100%; }
+	.navbar-nav > li > a { padding: 33px 4px 31px; font-size: 12px; }
+	
+	/* MainBanner */
+	.jb-caption { bottom: 60px; }
+	.jb-caption h3 { font-size: 20px; }
+	.jb-caption h1 { font-size: 44px; }
+	.jb-caption span { font-size: 30px; margin-bottom: 25px; }
+
+	/* MainGrid */
+	.gallery-info h4 { font-size: 18px; }
+
+	
+	/* Content */
+	.jb-subheader.subheader-height { height: auto; padding: 40px 0 0; }
+
+	/* Footer */
+	#footer-widget .col-md-3.widget.widget-text { width: 100%; }
+	#footer-widget .widget-text:before { right: 0px; }
+	.jb-newslatter { margin-bottom: 30px; }
+	.bottom-footer thbg-color { text-align: center; }
+	.bottom-footer thbg-color [class*="col-md-"] { display: inline-block; }
+	
+
+}
+
+/*============ Media 420Px Start ============ */
+@media (max-width: 767px) {
+	/* Header */
+
+	/* Navigation */
+	.navbar-nav > li > a { padding: 12px 18px; }
+	.navbar-toggle { background-color: #fff; margin-top: 25px; }
+	.navbar-collapse { z-index: 99; position: absolute; right: 0px; top: 100%; width: 320px; background-color: #fcfcfc; }
+	.navbar-nav .children { background-color: #666; float: left; width: 100%; margin: 0px; position: static; visibility: visible; opacity: 1; -webkit-transform: none; -moz-transform: none; -ms-transform: none; -o-transform: none; transform: none; }
+	.navbar-nav { margin: 0px; }
+	.navbar-nav .children li a { width: 100%; }
+	.nav > li { float: left; width: 100%; }
+	.navbar-nav { text-align: left; }
+	.jb-header-absolute { position: static; } .jb-headbar { margin-top: 0px; } .jb-header-absolute ~ #mainbanner { padding: 0px; }
+	.jb-topbar { height: auto; }
+	.jb-barinfo,.jb-topbar:before,#footer-widget .widget-text:before { display: none; }
+	.main-navbaar .col-md-3 { float: right; width: 50%; }
+	.jb-header-two .navbar-toggle { margin-top: 8px; }
+	.jb-header-two .navbar-collapse { background-color: #333; right: auto; left: 0px; }
+
+	/* MainBanner */
+	.jb-caption { bottom: 40px; }
+	.jb-caption h3 { display: none; }
+	.jb-caption h1 { font-size: 44px; }
+	.jb-caption span { font-size: 30px; margin-bottom: 25px; }
+
+	/* MainGrid */
+	.jb-content .col-md-4 { float: left; width: 100%; }
+	.jb-content .col-md-3 { float: left;  width: 100%; }
+	.gallery-info h4 { font-size: 18px; }
+	
+	.widget-section{padding:0px;}
+	#footer-widget .col-md-3, #footer-widget .col-md-4{float:left;padding-top:30px;padding-bottom:0px;}
+	#footer-widget .jb-newslatter{margin-top:30px;float:left;}
+	.jb-email{float:none;display:block;text-align:center;}
+	.jb-headbar{border:none;}
+	.jb-eventcountdown .countdown{margin:0px;}
+	#jbrespond form p{padding:15px 0px;}
+	#jbrespond form p i{display:none;}
+	.jb-main-action span{width:100%;float:none;display:block;text-align:center;}
+
+	/*  Content */
+	.countdown .item { width: 100%; }
+	.countdown .item:before,.jb-header-two .jb-team-network { display: none; }
+
+	.jb-subheader.subheader-height { height: auto; padding: 40px 0px; }
+	.jb-breadcrumb{ float:left;}
+	.jb-couses-options li { width: 50%; }
+	#jbcomments .children > li { padding-left: 0px; }
+	.jb-couses-options li { padding-bottom: 25px; }
+	.jb-innsec ul li { width: 50%; }
+
+	/* Footer */
+	#footer-widget .col-md-3.widget.widget-text { width: 100%; }
+	.bottom-footer thbg-color { text-align: center; }
+	.bottom-footer thbg-color [class*="col-md-"] { display: inline-block; }
+}
+@media (max-width: 600px) {
+#jbrespond .comments-form p {width:100%}
+#jbrespond .comments-form p:nth-child(3n){padding-right:25px}}
+
+/*============ Media 300Px Star ============ */
+@media (max-width: 480px) {
+	
+	.jb-headbar { text-align: left; }
+	.logo,.jb-rightsection { display: inline-block; float: none; }
+	.navbar-collapse { width: 220px; right: auto; left: 0px; }
+	.main-navbaar .col-md-3 { width: 70%; }
+	#jbrespond form p,.jb-couses-options li { width: 100%; }
+
+	/* Main Banner */
+	.jb-caption { display: none; }
+
+}
+
+/*============	Media 940Px Start ============ */
+@media screen and (min-width: 991px) and (max-width: 1199px) {
+	.navbar-nav > li > a { font-size: 13px; padding: 35px 14px 31px; }
+	
+}

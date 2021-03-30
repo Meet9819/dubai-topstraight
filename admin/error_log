@@ -1,0 +1,206 @@
+[30-Aug-2019 10:15:41 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tsldubai/public_html/admin/conn.php on line 6
+[30-Aug-2019 15:45:41 asia/kolkata] PHP Notice:  Undefined index: user_id in /home/tsldubai/public_html/admin/login_check.php on line 18
+[30-Aug-2019 10:53:03 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[30-Aug-2019 10:53:03 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[30-Aug-2019 10:53:03 Etc/GMT] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 217
+[30-Aug-2019 10:53:03 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[30-Aug-2019 10:53:03 Etc/GMT] PHP Notice:  Undefined index: poffer in /home/tsldubai/public_html/admin/add_product.php on line 172
+[30-Aug-2019 10:57:26 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[30-Aug-2019 10:57:26 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[30-Aug-2019 10:57:26 Etc/GMT] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 217
+[30-Aug-2019 10:57:26 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[30-Aug-2019 11:12:43 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[30-Aug-2019 11:12:43 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[30-Aug-2019 11:12:43 Etc/GMT] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 217
+[30-Aug-2019 11:12:43 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[30-Aug-2019 11:12:43 Etc/GMT] PHP Notice:  Undefined index: poffer in /home/tsldubai/public_html/admin/add_product.php on line 172
+[30-Aug-2019 11:16:03 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[30-Aug-2019 11:16:03 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[30-Aug-2019 11:16:03 Etc/GMT] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 217
+[30-Aug-2019 11:16:03 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[30-Aug-2019 11:16:03 Etc/GMT] PHP Notice:  Undefined index: poffer in /home/tsldubai/public_html/admin/add_product.php on line 172
+[30-Aug-2019 11:17:17 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[30-Aug-2019 11:17:17 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[30-Aug-2019 11:17:17 Etc/GMT] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 217
+[30-Aug-2019 11:17:17 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[30-Aug-2019 11:17:17 Etc/GMT] PHP Notice:  Undefined index: poffer in /home/tsldubai/public_html/admin/edit_product.php on line 186
+[30-Aug-2019 11:18:24 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[30-Aug-2019 11:18:24 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[30-Aug-2019 11:18:24 Etc/GMT] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 217
+[30-Aug-2019 11:18:24 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[30-Aug-2019 11:18:46 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[30-Aug-2019 11:18:46 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[30-Aug-2019 11:18:46 Etc/GMT] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 217
+[30-Aug-2019 11:18:46 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[30-Aug-2019 11:19:18 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[30-Aug-2019 11:19:18 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[30-Aug-2019 11:19:18 Etc/GMT] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 217
+[30-Aug-2019 11:19:18 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[30-Aug-2019 11:19:30 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[30-Aug-2019 11:19:30 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[30-Aug-2019 11:19:30 Etc/GMT] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 217
+[30-Aug-2019 11:19:30 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[30-Aug-2019 11:19:55 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[30-Aug-2019 11:19:55 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[30-Aug-2019 11:19:55 Etc/GMT] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 217
+[30-Aug-2019 11:19:55 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[30-Aug-2019 11:20:41 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[30-Aug-2019 11:20:41 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[30-Aug-2019 11:20:41 Etc/GMT] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 217
+[30-Aug-2019 11:20:41 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[30-Aug-2019 11:21:10 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[30-Aug-2019 11:21:10 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[30-Aug-2019 11:21:10 Etc/GMT] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 217
+[30-Aug-2019 11:21:10 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[30-Aug-2019 11:21:27 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[30-Aug-2019 11:21:27 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[30-Aug-2019 11:21:27 Etc/GMT] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 217
+[30-Aug-2019 11:21:27 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[30-Aug-2019 11:21:55 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[30-Aug-2019 11:21:55 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[30-Aug-2019 11:21:55 Etc/GMT] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 217
+[30-Aug-2019 11:21:55 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[30-Aug-2019 11:22:36 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[30-Aug-2019 11:22:36 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[30-Aug-2019 11:22:36 Etc/GMT] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 217
+[30-Aug-2019 11:22:36 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[30-Aug-2019 11:23:10 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[30-Aug-2019 11:23:10 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[30-Aug-2019 11:23:10 Etc/GMT] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 217
+[30-Aug-2019 11:23:10 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[30-Aug-2019 11:23:41 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[30-Aug-2019 11:23:41 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[30-Aug-2019 11:23:41 Etc/GMT] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 217
+[30-Aug-2019 11:23:41 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[30-Aug-2019 11:24:08 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[30-Aug-2019 11:24:08 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[30-Aug-2019 11:24:08 Etc/GMT] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 217
+[30-Aug-2019 11:24:08 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[30-Aug-2019 11:24:36 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[30-Aug-2019 11:24:36 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[30-Aug-2019 11:24:36 Etc/GMT] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 217
+[30-Aug-2019 11:24:36 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[17-Feb-2020 16:03:37 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tsldubai/public_html/admin/conn.php on line 6
+[17-Feb-2020 21:33:37 asia/kolkata] PHP Notice:  Undefined index: user_id in /home/tsldubai/public_html/admin/login_check.php on line 18
+[02-Mar-2020 07:59:51 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tsldubai/public_html/admin/conn.php on line 6
+[02-Mar-2020 13:29:51 asia/kolkata] PHP Notice:  Undefined index: user_id in /home/tsldubai/public_html/admin/login_check.php on line 18
+[22-Apr-2020 00:42:01 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tsldubai/public_html/admin/conn.php on line 6
+[22-Apr-2020 00:42:02 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tsldubai/public_html/admin/conn.php on line 6
+[22-Apr-2020 00:50:03 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tsldubai/public_html/admin/conn.php on line 6
+[22-Apr-2020 00:50:04 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tsldubai/public_html/admin/conn.php on line 6
+[22-Apr-2020 00:57:59 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tsldubai/public_html/admin/conn.php on line 6
+[22-Apr-2020 00:58:00 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tsldubai/public_html/admin/conn.php on line 6
+[22-Apr-2020 01:06:11 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tsldubai/public_html/admin/conn.php on line 6
+[22-Apr-2020 01:06:11 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tsldubai/public_html/admin/conn.php on line 6
+[22-Apr-2020 01:14:24 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tsldubai/public_html/admin/conn.php on line 6
+[22-Apr-2020 01:14:25 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tsldubai/public_html/admin/conn.php on line 6
+[22-Apr-2020 01:22:26 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tsldubai/public_html/admin/conn.php on line 6
+[22-Apr-2020 01:22:27 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tsldubai/public_html/admin/conn.php on line 6
+[22-Apr-2020 01:30:22 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tsldubai/public_html/admin/conn.php on line 6
+[22-Apr-2020 01:30:22 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tsldubai/public_html/admin/conn.php on line 6
+[22-Apr-2020 01:38:17 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tsldubai/public_html/admin/conn.php on line 6
+[22-Apr-2020 01:38:17 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/tsldubai/public_html/admin/conn.php on line 6
+[22-Jan-2021 15:11:25 Etc/GMT] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 34
+[22-Jan-2021 15:11:25 Etc/GMT] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 35
+[22-Jan-2021 15:11:25 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[22-Jan-2021 15:11:25 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[22-Jan-2021 15:11:25 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[22-Jan-2021 15:12:37 Etc/GMT] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 34
+[22-Jan-2021 15:12:37 Etc/GMT] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 35
+[22-Jan-2021 15:12:37 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[22-Jan-2021 15:12:37 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[22-Jan-2021 15:12:37 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[22-Jan-2021 15:13:19 Etc/GMT] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 34
+[22-Jan-2021 15:13:19 Etc/GMT] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 35
+[22-Jan-2021 15:13:19 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[22-Jan-2021 15:13:19 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[22-Jan-2021 15:13:19 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[22-Jan-2021 15:13:26 Etc/GMT] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 34
+[22-Jan-2021 15:13:26 Etc/GMT] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 35
+[22-Jan-2021 15:13:26 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[22-Jan-2021 15:13:26 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[22-Jan-2021 15:13:26 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[22-Jan-2021 15:17:56 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[22-Jan-2021 15:17:56 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[22-Jan-2021 15:17:56 Etc/GMT] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 217
+[22-Jan-2021 15:17:56 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[22-Jan-2021 15:18:03 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[22-Jan-2021 15:18:03 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[22-Jan-2021 15:18:03 Etc/GMT] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 217
+[22-Jan-2021 15:18:03 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[22-Jan-2021 15:18:13 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[22-Jan-2021 15:18:13 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[22-Jan-2021 15:18:13 Etc/GMT] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 217
+[22-Jan-2021 15:18:13 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[22-Jan-2021 15:19:06 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[22-Jan-2021 15:19:06 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[22-Jan-2021 15:19:06 Etc/GMT] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 217
+[22-Jan-2021 15:19:06 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[22-Jan-2021 15:21:05 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[22-Jan-2021 15:21:05 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[22-Jan-2021 15:21:05 Etc/GMT] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 235
+[22-Jan-2021 15:21:05 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[22-Jan-2021 15:22:55 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[22-Jan-2021 15:22:55 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[22-Jan-2021 15:22:55 Etc/GMT] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 235
+[22-Jan-2021 15:22:55 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[22-Jan-2021 15:59:23 Etc/GMT] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 34
+[22-Jan-2021 15:59:23 Etc/GMT] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 35
+[22-Jan-2021 15:59:23 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[22-Jan-2021 15:59:23 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[22-Jan-2021 15:59:23 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[22-Jan-2021 15:59:48 Etc/GMT] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 34
+[22-Jan-2021 15:59:48 Etc/GMT] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 35
+[22-Jan-2021 15:59:48 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[22-Jan-2021 15:59:48 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[22-Jan-2021 15:59:48 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[22-Jan-2021 16:00:35 Etc/GMT] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 34
+[22-Jan-2021 16:00:35 Etc/GMT] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 35
+[22-Jan-2021 16:00:35 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[22-Jan-2021 16:00:35 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[22-Jan-2021 16:00:35 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[22-Jan-2021 16:00:50 Etc/GMT] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 34
+[22-Jan-2021 16:00:50 Etc/GMT] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 35
+[22-Jan-2021 16:00:50 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[22-Jan-2021 16:00:50 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[22-Jan-2021 16:00:50 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[22-Jan-2021 16:01:12 Etc/GMT] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 34
+[22-Jan-2021 16:01:12 Etc/GMT] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 35
+[22-Jan-2021 16:01:12 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[22-Jan-2021 16:01:12 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[22-Jan-2021 16:01:12 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[22-Jan-2021 16:01:26 Etc/GMT] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 34
+[22-Jan-2021 16:01:26 Etc/GMT] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 35
+[22-Jan-2021 16:01:26 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[22-Jan-2021 16:01:26 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[22-Jan-2021 16:01:26 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[22-Jan-2021 16:01:43 Etc/GMT] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 34
+[22-Jan-2021 16:01:43 Etc/GMT] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 35
+[22-Jan-2021 16:01:43 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[22-Jan-2021 16:01:43 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[22-Jan-2021 16:01:43 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[22-Jan-2021 16:02:04 Etc/GMT] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 34
+[22-Jan-2021 16:02:04 Etc/GMT] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 35
+[22-Jan-2021 16:02:04 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[22-Jan-2021 16:02:04 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[22-Jan-2021 16:02:04 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[22-Jan-2021 16:02:19 Etc/GMT] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 34
+[22-Jan-2021 16:02:19 Etc/GMT] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 35
+[22-Jan-2021 16:02:19 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[22-Jan-2021 16:02:19 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[22-Jan-2021 16:02:19 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[22-Jan-2021 16:02:34 Etc/GMT] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 34
+[22-Jan-2021 16:02:34 Etc/GMT] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 35
+[22-Jan-2021 16:02:34 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[22-Jan-2021 16:02:34 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[22-Jan-2021 16:02:34 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[22-Jan-2021 16:02:48 Etc/GMT] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 34
+[22-Jan-2021 16:02:48 Etc/GMT] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 35
+[22-Jan-2021 16:02:48 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[22-Jan-2021 16:02:48 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[22-Jan-2021 16:02:48 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246
+[22-Jan-2021 16:03:06 Etc/GMT] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 34
+[22-Jan-2021 16:03:06 Etc/GMT] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 35
+[22-Jan-2021 16:03:06 Etc/GMT] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tsldubai/public_html/admin/include/resizeclass.php on line 76
+[22-Jan-2021 16:03:06 Etc/GMT] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 77
+[22-Jan-2021 16:03:06 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tsldubai/public_html/admin/include/resizeclass.php on line 246

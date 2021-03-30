@@ -1,0 +1,16 @@
+
+.xoverlay{position: relative;overflow: hidden;}
+.xoverlay-data{width: 100%;height: 100%;text-align: center;}
+.xoverlay span{display: inline-block;position: relative;top: 40%;margin: 0 3%;}
+.xoverlay span i{text-align: center;font-size: 27px;width: 48px;height: 48px;padding: 17%;}
+@media (max-width:530px){.xoverlay span i{text-align: center;font-size: 27px;width: 35px;height: 35px;padding: 5%;}}
+@media (max-width:530px){.xoverlay span i{text-align: center;font-size: 19px;width: 25px;height: 25px;}}
+@media (max-width:302px){.xoverlay span i{text-align: center;font-size: 10px;width: 15px;height: 15px;}}
+/*===== Icon style =====*/
+.xoverlay .x-circle i{border-radius: 50%;border: 2px solid #ffffff;color: #ffffff;}
+/*===== Simple Opacity =====*/
+.x-simple .xoverlay-box{width: 100%;height: 100%;position: absolute;left: 0;right: 0;bottom: 0;top: 0;opacity: 0;background: rgba(27,27,27,.7);-webkit-transition: all .3s;-moz-transition: all .3s;transition: all .3s;}
+.x-simple:hover .xoverlay-box{width: 100%;height: 100%;position: absolute;left: 0;right: 0;bottom: 0;top: 0;opacity: 1;background: rgba(27,27,27,.7);}
+/*===== Zoom Icon =====*/
+.xoverlay .x-icon-zoom span{opacity: 0;transform: scale(0,0);-ms-transform: scale(0,0);-webkit-transform: scale(0,0);-webkit-transition: all .3s;-moz-transition: all .3s;transition: all .3s;}
+.xoverlay:hover .x-icon-zoom span{opacity: 1;transform: scale(1,1);-ms-transform: scale(1,1);-webkit-transform: scale(1,1);}

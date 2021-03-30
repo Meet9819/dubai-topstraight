@@ -1,0 +1,58 @@
+
+/*PRODUCT
+______________________________________ */
+.widget .leftprod{width: 100%;}
+.widget .leftprod .mptit{display: block;cursor: pointer;font-size: 1em; font-weight: 400;color: #484848;text-transform: uppercase;line-height: 25px;padding:10px 0 7px 20px;border-bottom: 1px solid #B7B7B7;
+	transition: all .3s ease-in-out;-webkit-transition: all .3s ease-in-out;background: url('../images/category-tag.png') no-repeat 5px 18px #fff;}
+.widget .leftprod .mptit:hover {color: #db2e2e;padding-left: 25px;}
+.widget .leftprod .mptit.sel{background: url('../images/category-tag.png') no-repeat 5px 18px #fff;padding-left: 25px;color: #db2e2e;}
+.widget .spcate{padding: 7px 0px;background: #FFF;width:99%;border-bottom: #ECECEA solid 1px;display: none;}
+.widget .spcate p.psbtit{background-color: #FFF;padding: 6px 0px 6px 25px;margin: 0px 0;font-size: 13px;cursor: pointer;}
+.widget .spcate p:hover, .widget .spcate p.sel{color: #db2e2e;}
+.widget .leftprod > div.last{border-bottom: none;}
+.widget .leftprod .title{height: 35px;padding: 16px 0px 0px 25px;width: 260px;color: #FFF;font-size: 16px;cursor: default;}
+.widget .leftprod .bot{height: 16px;cursor: default;border-bottom: none;}
+.rgproview {padding:0 12px 0 0}
+.rgprolist {padding-left:0}
+.pageTitle{background-color: #0090EC;font-size: 15px;font-weight: bold;color: #fff;width: 96%;padding: 7px 0px 7px 7px; margin-bottom:10px}
+.rgproview{float:left;}
+
+#productlist .productsview ul li{width:30%;  display: inline-block;vertical-align: top;margin:6px 14px;}
+#productlist .productsview ul li .img-holder {border:1px solid #e4e4e4}
+#productlist .productsview ul li .img-holder img{width:100%}
+#productlist .productsview ul li .pntitle {float: left;width: 100%;padding: 4px 1px;cursor:pointer;box-sizing: border-box;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;}
+#productlist .productsview ul li .pntitle a {font-size: 14px;font-weight: 600;color: #4c4c4c;text-align: center;width: 100%;display: block;}
+#productlist .productsview ul li .pntitle a:hover{color:#bd4043;}
+
+.gallery-icon a { display: block; position: relative; }
+.gallery-icon a:after { content: "+"; position: absolute; display: block; opacity: 0; font-size: 2.5em; font-weight: 700; color: #A5A5A5; width: 40px; height: 40px; line-height: 40px; background: #fff; text-align: center; background: white; right: -20px; top: 0; border-radius: 20px; cursor: pointer; }
+.gallery-icon a:hover:after { opacity: 1; top: -20px; 
+-webkit-transition: all .2s ease; -moz-transition: all .2s ease; -ms-transition: all .2s ease; -o-transition: all .2s ease; transition: all .2s ease; }
+.subcate{display:inline-flex}
+/* RESPONSIVE MAGIC
+______________________________________ */
+@media screen and (max-width: 1199px) {#productlist .productsview ul li{width:45%;margin:6px 16px;}}
+@media screen and (max-width: 960px) {.widget{width: 100%;}.rgproview{width: 100%;margin-left: 0px;}.rgprolist{width:100% !important}}
+@media screen and (max-width: 880px) {.widget .leftprod .mptit{width: 99%;}}
+@media screen and (max-width: 682px) {#productlist .productsview ul li {margin:12px 13px;}}
+@media screen and (max-width: 562px) {#productlist .productsview ul li {margin:12px 10px;}}
+@media screen and (max-width: 460px) {#productlist .productsview ul li{width:100%;margin:12px 0px;}}
+
+
+
+#productsub .productsview ul li{width:30%;display: inline-block;vertical-align: top;margin:12px 18px;}
+#productsub .productsview ul li .img-holder {border:1px solid #e4e4e4}
+#productsub .productsview ul li .img-holder img{width:100%}
+#productsub .productsview ul li .pntitle {float: left;width: 100%;padding: 4px 1px;cursor:pointer;box-sizing: border-box;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;}
+#productsub .productsview ul li .pntitle a {font-size: 16px;font-weight: 600;color: #4c4c4c;text-align: center;width: 100%;display: block;}
+#productsub .productsview ul li .pntitle a:hover{color:#bd4043;}
+
+@media screen and (max-width: 1199px) {#productsub .productsview ul li {margin:12px 14px;}}
+@media screen and (max-width: 990px) {#productsub .productsview ul li {margin:12px 12px;}}
+@media screen and (max-width: 750px) {#productsub .productsview ul li {margin:12px 17px;width:45%;}}
+@media screen and (max-width: 710px) {#productsub .productsview ul li {margin:12px 14px;}}
+@media screen and (max-width: 590px) {#productsub .productsview ul li {margin:12px 10px;}}
+@media screen and (max-width: 590px) {#productsub .productsview ul li {width:100%;margin:12px 0;}}
+
+
+
